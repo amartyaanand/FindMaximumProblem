@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumUsingGenerics", "MaximumUsingGenerics.csproj", "{51A17357-39AF-4384-9D8B-CB2171B474C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumUsingGenericsTest", "..\MaximumUsingGenericsTest\MaximumUsingGenericsTest.csproj", "{FEF517A4-D65B-48DD-BE85-307BF76D8CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A17357-39AF-4384-9D8B-CB2171B474C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A17357-39AF-4384-9D8B-CB2171B474C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A17357-39AF-4384-9D8B-CB2171B474C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A17357-39AF-4384-9D8B-CB2171B474C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF517A4-D65B-48DD-BE85-307BF76D8CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF517A4-D65B-48DD-BE85-307BF76D8CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF517A4-D65B-48DD-BE85-307BF76D8CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF517A4-D65B-48DD-BE85-307BF76D8CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBEBDD3D-E864-412A-B985-7079E9AC611C}
+	EndGlobalSection
+EndGlobal
